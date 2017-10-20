@@ -4,7 +4,27 @@
   - Update it everyday
   - Write it in English as training
 
+## Themes
+- Planning and Design
+  - Buisiness Model
+  - Grouth Hack
+  - System Architecture
+- Production Enginnering
+  - QCDS
+  - Test
+  - Documentation
+- Learn & Try technologies
+  - Machine Learning & Modeling
+  - OSS contribution
+- Hot topic Catchup
+  - Block Chain
+  - Space Buisiness
+
 ## Goals
-- [ ] Read ビジネスモデル・ナビゲーター all
-- [ ] Read ビットコインとブロックチェーン 8章、9章
-- [ ] Develop gimmickry improve
+### Books
+- [ ] ビジネスモデル・ナビゲーター all
+- [ ] ビットコインとブロックチェーン 8章、9章
+- [ ] いちばんやさしいグロースハックの教科書
+
+### Development
+- [ ] Gimmickry
